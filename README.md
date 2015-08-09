@@ -1,6 +1,8 @@
 # The Functional Rubyist
 #### By Jim OKelly
 
+> No animals were injured in the writing of this book, however a lot of flowers were burned.
+
 ## Dedication
 
 > This book is dedicated to my friend and mentor, Jim Weirich. Before him I was just a coder. Jim opened my eyes to the concept of design and I will forever be grateful.
@@ -39,4 +41,3 @@ It will almost always take up more memory than the imperative solution, except w
 
 All in all, this kind of code led me personally to writing more functionality with less code and far less bugs. I envy all of you who gets to learn these lessons early in your careers.
 
-No animals were injured in the writing of this book, however a lot of flowers were burned.
